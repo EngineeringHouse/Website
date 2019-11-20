@@ -1,6 +1,8 @@
 Engineering House website, made by Anthony Edvalson and maintained by the
 current Computer Chair of Engineering House
 
+Also Dominick Reba is cool (greetings from 2019)
+
 Credits:
 	Template: 
 		Photon by HTML5 UP
